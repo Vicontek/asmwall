@@ -64,7 +64,7 @@ Multiplication and Division
 
 Multiplier type | Operation performed
 --------------- | -------------------
-`byte` | `al = al * a`
+`byte` | `ax = al * a`
 `word` | `(dx:ax) = ax * a`
 `dword` | `(edx:eax) = eax * a`
 
